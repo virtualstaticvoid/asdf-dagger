@@ -20,7 +20,7 @@ install_plugin() {
   pushd $install_path > /dev/null
   tar zxf "$tmp_download_file" || exit 1
   mkdir bin
-  mv *.* bin/dagger
+  mv dagger bin/dagger
   popd > /dev/null
 }
 
