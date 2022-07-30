@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add dagger https://github.com/virtualstaticvoid/asdf-dagger.git
+asdf install dagger latest
 ```
 
 ## Use
