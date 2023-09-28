@@ -1,6 +1,6 @@
 # asdf-dagger
 
-[![Main Workflow](https://github.com/virtualstaticvoid/asdf-dagger/actions/workflows/workflow.yml/badge.svg?branch=main)](https://github.com/virtualstaticvoid/asdf-dagger/actions/workflows/workflow.yml)
+[![Main Workflow](https://github.com/virtualstaticvoid/asdf-dagger/actions/workflows/workflow.yml/badge.svg)](https://github.com/virtualstaticvoid/asdf-dagger/actions/workflows/workflow.yml)
 
 [`dagger`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
