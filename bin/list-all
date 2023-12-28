@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 set -eo pipefail
+[ -z "$DEBUG" ] || set -x
 
 repo=dagger/dagger
 
